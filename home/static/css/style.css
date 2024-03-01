@@ -1,0 +1,12 @@
+.bg_primary {
+    background: #417690!important;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.container-custom {
+    width: 85%!important;
+    margin: auto;
+}
